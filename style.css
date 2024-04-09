@@ -14,7 +14,7 @@
   
   .calculadora {
     width: 300px;
-    background-color: #464646;
+    background-color: #008000;
     border-radius: 10px;
     box-shadow: 0px 4px 4px #00000040;
     font-family: "Helvetica Neue", sans-serif;
@@ -51,15 +51,15 @@
   
   .butuon-zero {
     grid-column: span 2;
-    background-color: #747474;
+    background-color: #DCDCDC	;
   }
   
   .botao-cinza {
-    background-color: #585858;
+    background-color: #DCDCDC	;
   }
   
   .botao-cinza-claro {
-    background-color: #747474;
+    background-color: #DCDCDC	;
   }
   
   button:active {
@@ -67,5 +67,5 @@
   }
   
   .botao-laranja {
-    background-color: #f2a43b;
+    background-color: #DCDCDC	;
   }
